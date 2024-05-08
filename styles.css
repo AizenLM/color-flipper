@@ -232,3 +232,8 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+h2{
+  padding: 15px;
+  color: #fff;
+  background-color: black;
+}
